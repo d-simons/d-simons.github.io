@@ -172,10 +172,11 @@
 
 // Link styles for navigation
 .link-primary {
-  font-weight: bold;
+  color: $color-primary-link;
   text-decoration: none;
 
   &:hover {
+    font-weight: bold;
     color: $color-primary-link;
     text-decoration: none;
   }
