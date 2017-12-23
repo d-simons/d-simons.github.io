@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: category-post
 title:  "Bacoms are delicious"
-date:   2016-08-07
+date:   2016-08-05 20:20:56 -0400
+categories: projects
 ---
 
 Lorem ipsizzle funky fresh i'm in the shizzle boom shackalack, consectetizzle adipiscing my shizz. Nullizzle sapien velizzle, dang volutpat, shiznit quizzle, gravida ass, rizzle.
