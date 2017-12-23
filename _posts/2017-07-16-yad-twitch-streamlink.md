@@ -26,4 +26,4 @@ Dependencies: Streamlink (optional; mpv can also be used directly for stream pla
 
 Stream list:
 
-![yad-twitch-streamlink stream list](/_posts/yts-screenshot.png)
+![yad-twitch-streamlink stream list](https://raw.githubusercontent.com/simoniz0r/yad-twitch-streamlink/master/screenshots/streamlist.png)
