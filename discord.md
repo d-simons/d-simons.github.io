@@ -6,7 +6,7 @@ permalink: /discord/
 
 AppImage builds for **[Discord Stable, PTB, and Canary](https://discordapp.com)**
 
-The AppImages here are built using [appimagebuild](https://github.com/simoniz0r/AppImages) with dependencies from Debian Jessie's repos.
+These Discord AppImages are built using [appimagebuild](https://github.com/simoniz0r/AppImages) with dependencies from Debian Jessie's repos.
 
 The AppImages for Discord have an `--update` argument built in which will build a new AppImage in your `~/Downloads` directory in case a new release hasn't been updated below yet.
 
