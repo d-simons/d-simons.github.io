@@ -20,4 +20,4 @@ To use an AppImage, all you have to do is make it executable and run it!  No ins
 
 How to make an AppImage executable in your file manager:
 
-![executable](https://u.teknik.io/Mq1r4.gif)
+![executable](https://u.teknik.io/rEZBa.gif)
