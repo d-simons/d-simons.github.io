@@ -53,10 +53,11 @@ h5, .h5 { font-size: $h5-size; }
 h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em; }
 
 a {
-  color: inherit;
+  color: $color-primary-link !important;
   text-decoration: none;
 }
 
 a:hover {
+  color: #00bbff !important;
   text-decoration: underline;
 }
