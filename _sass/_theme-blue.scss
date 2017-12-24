@@ -3,6 +3,7 @@
 // Color variables
 $blue: #009DDB;
 $blue-small: #007AB3;
+$blue-hover: #00bbff;
 $gray: #232629;
 $white: #a5a7a1;
 
@@ -16,6 +17,7 @@ $color-text-accent: $blue !default;
 $color-code: $blue-small !default;
 $color-nav-link: $blue !default;
 $color-primary-link: $blue !default;
+$color-hover-link: $blue-hover !default;
 
 .font-smoothing {
   -webkit-font-smoothing: antialiased;
