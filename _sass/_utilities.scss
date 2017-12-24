@@ -172,7 +172,7 @@
 
 // Link styles for navigation
 .link-primary {
-  color: $color-primary-link;
+  color: $color-primary-link !important;
   text-decoration: none;
 
   &:hover {
