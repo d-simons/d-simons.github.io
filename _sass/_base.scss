@@ -58,6 +58,6 @@ a {
 }
 
 a:hover {
-  color: #00bbff !important;
+  color: $color-hover-link !important;
   text-decoration: underline;
 }
