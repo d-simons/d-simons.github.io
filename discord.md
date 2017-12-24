@@ -6,7 +6,7 @@ permalink: /discord/
 
 AppImage builds for **[Discord Stable, PTB, and Canary](https://discordapp.com)**
 
-These Discord AppImages are built using [appimagebuild](https://github.com/simoniz0r/AppImages) with dependencies from Debian Jessie's repos.  All necessary dependencies for Discord are bundled in the AppImage, so the Discord AppImages should just work on any system.  These AppImages have been verified to run on Linux distributions as old as CentOS 6.
+These Discord AppImages are built using [appimagebuild](https://github.com/simoniz0r/AppImages) with dependencies from Debian Jessie's repos.  All necessary dependencies for Discord are bundled in the AppImage, so the Discord AppImages should just work on any system.  These AppImages have been verified to run on Linux distributions as old as CentOS 6 and even as new as a rolling distribution, openSUSE Tumbleweed.
 
 The AppImages for Discord have an `--update` argument built in which will build a new AppImage in your `~/Downloads` directory in case a new release hasn't been updated below yet.
 
