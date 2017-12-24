@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "spm"
+title:  "discord-css-injection"
 date:   2017-12-20
 categories: projects
 ---
