@@ -5,8 +5,6 @@ date:   2017-07-16
 categories: projects
 ---
 
-**[View Source](https://github.com/simoniz0r/yad-twitch-streamlink)**
-
 yad-twitch-streamlink is a bash script that lists your live followed streamers from Twitch for playback using Streamlink. After selecting a stream, yad-twitch-streamlink opens Streamlink with the configured player and also opens the configured chat program.
 
 Streamlink path and arguments, chat program and arguments, and video player program and arguments are all configurable in the GUI or in the conf file.
@@ -28,3 +26,5 @@ Dependencies: Streamlink (optional; mpv can also be used directly for stream pla
 Stream list:
 
 ![yad-twitch-streamlink stream list](https://raw.githubusercontent.com/simoniz0r/yad-twitch-streamlink/master/screenshots/streamlist.png)
+
+**[View Source](https://github.com/simoniz0r/yad-twitch-streamlink)**
