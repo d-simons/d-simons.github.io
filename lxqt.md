@@ -10,7 +10,7 @@ permalink: /lxqt/
 
 ![screenshot2](https://raw.githubusercontent.com/simoniz0r/lxqt-customization-guide/master/screenshots/full-desktop2.png)
 
-# LXQt's Appearance settings
+# __LXQt's Appearance settings__
 
 Open up the `LXQt Configuration Center` app and then open up `Appearance`.
 
@@ -36,7 +36,7 @@ You can also select whatever Cursors in `Appearance`.  I am using the [Polar Cur
 
 ![lxqt-cursor](https://raw.githubusercontent.com/simoniz0r/lxqt-customization-guide/master/screenshots/lxqt-cursor.png)
 
-# Customize Look and Feel (lxappearance)
+# __Customize Look and Feel (lxappearance)__
 
 Open `Customize Look and Feel` in your menu to open `lxappearance`.  In the Widget tab, we'll select our GTK theme.  I am using [Breeze-gtk](https://www.opendesktop.org/p/1197982/) (dark version; included in Breeze-gtk download).  This theme will apply to pretty much all applications that we run on our system.
 
