@@ -2,7 +2,7 @@
 layout: category-post
 title:  "twitch-wrapper"
 date:   2018-01-04
-categories: bash
+categories: index
 ---
 
 An Electron wrapper for Twitch.tv for Linux with FrankerFaceZ and FFZAP added in.  Created using nativefier.
