@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discord AppImages
+title: Discord AppImage Builds
 permalink: /discord/
 ---
 
