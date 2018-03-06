@@ -18,7 +18,7 @@ The dependencies for osc-easy-install are pretty light.  Most things required sh
 Dependencies:
 
 ```
-osc, zenity (or qarma, a zenity replacement), ssh-askpass, xterm, zypper, rpm
+osc, zenity (or qarma, a zenity replacement), xterm, zypper, rpm
 ```
 
 # Installation/Removal
@@ -57,7 +57,7 @@ If the user choses to install the selected package, `xterm` is opened (hopefully
 
 ![screenshot4](https://raw.githubusercontent.com/simoniz0r/osc-easy-install/master/screenshots/screenshot4.png)
 
-After `xterm` closes, osc-easy-install runs `rpm -qa | grep 'package-version'` to make sure the install was successful.  The user is told whether the package installed successfully and is then asked whether or not they would like to keep the repository used for installing the package in zypper's list.  If no is chosen, `ssh-askpass` will be used along with `SUDO_ASKPASS="$(which ssh-askpass)" sudo -A zypper rr repo_alias` to remove the repository from zypper's list.
+After `xterm` closes, osc-easy-install runs `rpm -qa | grep 'package-version'` to make sure the install was successful.  The user is told whether the package installed successfully and is then asked whether or not they would like to keep the repository used for installing the package in zypper's list.  If no is chosen, `SUDO_ASKPASS="$RUNNING_DIR/osc-easy-install-askpass" sudo -A zypper rr repo_alias`  will be ran to remove the repository from zypper's list.
 
 ![screenshot5](https://raw.githubusercontent.com/simoniz0r/osc-easy-install/master/screenshots/screenshot5.png)
 
