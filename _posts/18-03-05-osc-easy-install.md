@@ -64,3 +64,5 @@ After `xterm` closes, osc-easy-install runs `rpm -qa | grep 'package-version'` t
 # Troubleshooting Problems
 
 If there is an issue with osc-easy-install, debug mode can be enabled by running `osc-easy-install --debug` in a terminal.  This enables `set -x` and `set -v` which will output each command as it is ran and the result of each command.  If this information does not help solve the problem, feel free to post [an issue here](https://github.com/simoniz0r/osc-easy-install/issues/new) containing the output of `osc-easy-install --debug`.
+
+**[View Source](https://github.com/simoniz0r/osc-easy-install)**
