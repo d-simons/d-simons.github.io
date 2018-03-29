@@ -18,6 +18,14 @@ The AppImages for Discord have an `--update` argument built in which will build 
 
 To use an AppImage, all you have to do is make it executable and run it!  No install is required, but the AppImages for Discord will prompt if you'd like to add them to your menu for easy access.
 
+![desktopintegration](https://u.teknik.io/DSo4J.png)
+
 How to make an AppImage executable in your file manager:
 
 ![executable](https://u.teknik.io/rEZBa.gif)
+
+How to make an AppImage executable in your terminal:
+
+```
+chmod +x /replace/me/with/path/to/discord-stable-0.0.4-x86_64.AppImage
+```
