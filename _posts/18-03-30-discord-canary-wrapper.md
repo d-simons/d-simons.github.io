@@ -5,8 +5,6 @@ date:   2018-03-30
 categories: index
 ---
 
-# discord-canary-wrapper
-
 An Electron wrapper for Discord Canary with CSS hotloading.
 
 Just place your CSS file in `~/.discord-canary.css`, and the changes will be loaded automatically.
