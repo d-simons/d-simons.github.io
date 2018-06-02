@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: Wiki
 permalink: /wiki/
-category_name: wiki
 ---
 
 Welcome to simonizor's Wiki
