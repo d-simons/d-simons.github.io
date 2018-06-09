@@ -10,117 +10,117 @@
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00073.html</guid>
 <pubDate>Sat, 09 Jun 2018 03:00:02 +0200</pubDate>
 <description>
-<li>Packages changed:</li>
-<li>AppStream</li>
-<li>NetworkManager-vpnc</li>
-<li>aspell-dictionaries</li>
-<li>avogadrolibs</li>
-<li>calligra</li>
-<li>device-mapper</li>
-<li>dialog</li>
-<li>enchant</li>
-<li>epiphany (3.28.1.1 -&gt; 3.28.2.1)</li>
-<li>evolution</li>
-<li>evolution-data-server</li>
-<li>exiv2</li>
-<li>fftw3</li>
-<li>flatpak (0.10.4 -&gt; 0.11.7)</li>
-<li>gcab</li>
-<li>gdm (3.28.1 -&gt; 3.28.2)</li>
-<li>gettext-runtime</li>
-<li>gimp (2.10.0 -&gt; 2.10.2)</li>
-<li>git (2.17.0 -&gt; 2.17.1)</li>
-<li>glib-networking (2.56.0 -&gt; 2.56.1)</li>
-<li>gnome-builder (3.28.1 -&gt; 3.28.2)</li>
-<li>gnome-control-center (3.28.1 -&gt; 3.28.2)</li>
-<li>gnome-disk-utility (3.28.2 -&gt; 3.28.3)</li>
-<li>gnome-settings-daemon</li>
-<li>gnome-shell (3.28.2+20180509.e1ed4b25e -&gt; 3.28.2+20180519.a52597ac5)</li>
-<li>gnome-shell-extensions</li>
-<li>gnome-terminal (3.28.1 -&gt; 3.28.2)</li>
-<li>gstreamer-plugins-bad</li>
-<li>ibus</li>
-<li>installation-images-Kubic (14.373 -&gt; 14.374)</li>
-<li>issue-generator (1.5 -&gt; 1.6)</li>
-<li>kdeconnect-kde (1.3.0 -&gt; 1.3.1)</li>
-<li>kdevelop5 (5.1.2 -&gt; 5.2.3)</li>
-<li>kernel-firmware (20180518 -&gt; 20180525)</li>
-<li>kglobalaccel</li>
-<li>kio</li>
-<li>kontact</li>
-<li>libdazzle (3.28.1 -&gt; 3.28.2)</li>
-<li>liblangtag (0.6.1 -&gt; 0.6.2)</li>
-<li>liblouis (3.3.0 -&gt; 3.5.0)</li>
-<li>libmaxminddb (1.2.0 -&gt; 1.3.2)</li>
-<li>libmwaw (0.3.13 -&gt; 0.3.14)</li>
-<li>libqt5-qtbase (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtconnectivity (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtdeclarative (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtgraphicaleffects (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtimageformats (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtlocation (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtmultimedia (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtquickcontrols (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtquickcontrols2 (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtscript (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtsensors (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtserialport (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtspeech (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtsvg (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qttools (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qttranslations (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtvirtualkeyboard (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtwayland (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtwebchannel (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtwebengine (5.10.1 -&gt; 5.11.0)</li>
-<li>libqt5-qtwebsockets (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtx11extras (5.10.0 -&gt; 5.11.0)</li>
-<li>libqt5-qtxmlpatterns (5.10.0 -&gt; 5.11.0)</li>
-<li>libreoffice</li>
-<li>librsvg (2.42.4 -&gt; 2.42.5)</li>
-<li>libstaroffice (0.0.5 -&gt; 0.0.6)</li>
-<li>libwps (0.4.7 -&gt; 0.4.9)</li>
-<li>lvm2</li>
-<li>mariadb</li>
-<li>messagelib</li>
-<li>mozjs52</li>
-<li>mutter (3.28.2+20180507.41303bc01 -&gt; 3.28.2+20180526.abc7ad8e9)</li>
-<li>open-iscsi</li>
-<li>openssl-1_1</li>
-<li>osinfo-db (20180514 -&gt; 20180531)</li>
-<li>p7zip</li>
-<li>pidgin</li>
-<li>plasma-framework</li>
-<li>plasma5-pk-updates (0.3.1 -&gt; 0.3.2)</li>
-<li>publicsuffix (20180328 -&gt; 20180523)</li>
-<li>python-gobject (3.28.2 -&gt; 3.28.3)</li>
-<li>python-matplotlib</li>
-<li>python-ply (3.10 -&gt; 3.11)</li>
-<li>python-py (1.5.2 -&gt; 1.5.3)</li>
-<li>qalculate (2.2.1 -&gt; 2.5.0)</li>
-<li>qemu</li>
-<li>qemu-linux-user</li>
-<li>samba</li>
-<li>shotwell</li>
-<li>skype4pidgin (1.4 -&gt; 1.5)</li>
-<li>susefirewall2-to-firewalld (0.0.2 -&gt; 0.0.3)</li>
-<li>system-config-printer</li>
-<li>telnet</li>
-<li>thin-provisioning-tools (0.7.5 -&gt; 0.7.6)</li>
-<li>tidy (5.4.0 -&gt; 5.6.0)</li>
-<li>unbound</li>
-<li>upower</li>
-<li>vala (0.40.4 -&gt; 0.40.6)</li>
-<li>virt-bootstrap (1.0.0 -&gt; 1.1.0)</li>
-<li>virt-manager (1.5.0 -&gt; 1.5.1)</li>
-<li>vte (0.52.1 -&gt; 0.52.2)</li>
-<li>wicked (0.6.47 -&gt; 0.6.48)</li>
-<li>wireless-regdb (2017.12.23 -&gt; 2018.05.09)</li>
-<li>xf86-input-evdev (2.10.5 -&gt; 2.10.6)</li>
-<li>xf86-video-fbdev (0.4.4 -&gt; 0.5.0)</li>
-<li>yast2-bootloader (4.0.34 -&gt; 4.1.0)</li>
-<li>yast2-dns-server (4.0.1 -&gt; 4.0.2)</li>
-<li>yast2-python-bindings (4.0.3 -&gt; 4.0.4)</li>
+Packages changed:&lt;br&gt;
+AppStream&lt;br&gt;
+NetworkManager-vpnc&lt;br&gt;
+aspell-dictionaries&lt;br&gt;
+avogadrolibs&lt;br&gt;
+calligra&lt;br&gt;
+device-mapper&lt;br&gt;
+dialog&lt;br&gt;
+enchant&lt;br&gt;
+epiphany (3.28.1.1 -&gt; 3.28.2.1)&lt;br&gt;
+evolution&lt;br&gt;
+evolution-data-server&lt;br&gt;
+exiv2&lt;br&gt;
+fftw3&lt;br&gt;
+flatpak (0.10.4 -&gt; 0.11.7)&lt;br&gt;
+gcab&lt;br&gt;
+gdm (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+gettext-runtime&lt;br&gt;
+gimp (2.10.0 -&gt; 2.10.2)&lt;br&gt;
+git (2.17.0 -&gt; 2.17.1)&lt;br&gt;
+glib-networking (2.56.0 -&gt; 2.56.1)&lt;br&gt;
+gnome-builder (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+gnome-control-center (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+gnome-disk-utility (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+gnome-settings-daemon&lt;br&gt;
+gnome-shell (3.28.2+20180509.e1ed4b25e -&gt; 3.28.2+20180519.a52597ac5)&lt;br&gt;
+gnome-shell-extensions&lt;br&gt;
+gnome-terminal (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+gstreamer-plugins-bad&lt;br&gt;
+ibus&lt;br&gt;
+installation-images-Kubic (14.373 -&gt; 14.374)&lt;br&gt;
+issue-generator (1.5 -&gt; 1.6)&lt;br&gt;
+kdeconnect-kde (1.3.0 -&gt; 1.3.1)&lt;br&gt;
+kdevelop5 (5.1.2 -&gt; 5.2.3)&lt;br&gt;
+kernel-firmware (20180518 -&gt; 20180525)&lt;br&gt;
+kglobalaccel&lt;br&gt;
+kio&lt;br&gt;
+kontact&lt;br&gt;
+libdazzle (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+liblangtag (0.6.1 -&gt; 0.6.2)&lt;br&gt;
+liblouis (3.3.0 -&gt; 3.5.0)&lt;br&gt;
+libmaxminddb (1.2.0 -&gt; 1.3.2)&lt;br&gt;
+libmwaw (0.3.13 -&gt; 0.3.14)&lt;br&gt;
+libqt5-qtbase (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtconnectivity (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtdeclarative (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtgraphicaleffects (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtimageformats (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtlocation (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtmultimedia (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtquickcontrols (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtquickcontrols2 (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtscript (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtsensors (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtserialport (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtspeech (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtsvg (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qttools (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qttranslations (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtvirtualkeyboard (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtwayland (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtwebchannel (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtwebengine (5.10.1 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtwebsockets (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtx11extras (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libqt5-qtxmlpatterns (5.10.0 -&gt; 5.11.0)&lt;br&gt;
+libreoffice&lt;br&gt;
+librsvg (2.42.4 -&gt; 2.42.5)&lt;br&gt;
+libstaroffice (0.0.5 -&gt; 0.0.6)&lt;br&gt;
+libwps (0.4.7 -&gt; 0.4.9)&lt;br&gt;
+lvm2&lt;br&gt;
+mariadb&lt;br&gt;
+messagelib&lt;br&gt;
+mozjs52&lt;br&gt;
+mutter (3.28.2+20180507.41303bc01 -&gt; 3.28.2+20180526.abc7ad8e9)&lt;br&gt;
+open-iscsi&lt;br&gt;
+openssl-1_1&lt;br&gt;
+osinfo-db (20180514 -&gt; 20180531)&lt;br&gt;
+p7zip&lt;br&gt;
+pidgin&lt;br&gt;
+plasma-framework&lt;br&gt;
+plasma5-pk-updates (0.3.1 -&gt; 0.3.2)&lt;br&gt;
+publicsuffix (20180328 -&gt; 20180523)&lt;br&gt;
+python-gobject (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+python-matplotlib&lt;br&gt;
+python-ply (3.10 -&gt; 3.11)&lt;br&gt;
+python-py (1.5.2 -&gt; 1.5.3)&lt;br&gt;
+qalculate (2.2.1 -&gt; 2.5.0)&lt;br&gt;
+qemu&lt;br&gt;
+qemu-linux-user&lt;br&gt;
+samba&lt;br&gt;
+shotwell&lt;br&gt;
+skype4pidgin (1.4 -&gt; 1.5)&lt;br&gt;
+susefirewall2-to-firewalld (0.0.2 -&gt; 0.0.3)&lt;br&gt;
+system-config-printer&lt;br&gt;
+telnet&lt;br&gt;
+thin-provisioning-tools (0.7.5 -&gt; 0.7.6)&lt;br&gt;
+tidy (5.4.0 -&gt; 5.6.0)&lt;br&gt;
+unbound&lt;br&gt;
+upower&lt;br&gt;
+vala (0.40.4 -&gt; 0.40.6)&lt;br&gt;
+virt-bootstrap (1.0.0 -&gt; 1.1.0)&lt;br&gt;
+virt-manager (1.5.0 -&gt; 1.5.1)&lt;br&gt;
+vte (0.52.1 -&gt; 0.52.2)&lt;br&gt;
+wicked (0.6.47 -&gt; 0.6.48)&lt;br&gt;
+wireless-regdb (2017.12.23 -&gt; 2018.05.09)&lt;br&gt;
+xf86-input-evdev (2.10.5 -&gt; 2.10.6)&lt;br&gt;
+xf86-video-fbdev (0.4.4 -&gt; 0.5.0)&lt;br&gt;
+yast2-bootloader (4.0.34 -&gt; 4.1.0)&lt;br&gt;
+yast2-dns-server (4.0.1 -&gt; 4.0.2)&lt;br&gt;
+yast2-python-bindings (4.0.3 -&gt; 4.0.4)&lt;br&gt;
 </description>
 </item>
 <description>Release information for openSUSE Tumbleweed</description>
