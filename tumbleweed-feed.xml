@@ -130,22 +130,22 @@ yast2-python-bindings (4.0.3 -&gt; 4.0.4)&lt;br&gt;
 <guid>https://lists.opensuse.org/opensuse-factory/2018-05/msg00535.html</guid>
 <pubDate>Thu, 31 May 2018 19:00:04 +0200</pubDate>
 <description>
-Packages changed:
-NetworkManager-openvpn (1.8.2 -&gt; 1.8.4)
-bubblewrap (0.2.0 -&gt; 0.2.1)
-e2fsprogs (1.43.9 -&gt; 1.44.2)
-gstreamer-editing-services (1.12.5 -&gt; 1.14.1)
-gstreamer-plugins-libav (1.12.5 -&gt; 1.14.1)
-gstreamer-rtsp-server (1.12.5 -&gt; 1.14.1)
-gstreamer-validate (1.12.5 -&gt; 1.14.1)
-kbd
-libidn2 (2.0.4 -&gt; 2.0.5)
-libopenmpt (0.3.8 -&gt; 0.3.9)
-libsepol (2.6 -&gt; 2.7)
-libunistring (0.9.9 -&gt; 0.9.10)
-python-gst (1.12.5 -&gt; 1.14.1)
-sensors (3.4.0 -&gt; 3.4.0git20180510.1c48b19)
-sysvinit
+Packages changed:&lt;br&gt;
+NetworkManager-openvpn (1.8.2 -&gt; 1.8.4)&lt;br&gt;
+bubblewrap (0.2.0 -&gt; 0.2.1)&lt;br&gt;
+e2fsprogs (1.43.9 -&gt; 1.44.2)&lt;br&gt;
+gstreamer-editing-services (1.12.5 -&gt; 1.14.1)&lt;br&gt;
+gstreamer-plugins-libav (1.12.5 -&gt; 1.14.1)&lt;br&gt;
+gstreamer-rtsp-server (1.12.5 -&gt; 1.14.1)&lt;br&gt;
+gstreamer-validate (1.12.5 -&gt; 1.14.1)&lt;br&gt;
+kbd&lt;br&gt;
+libidn2 (2.0.4 -&gt; 2.0.5)&lt;br&gt;
+libopenmpt (0.3.8 -&gt; 0.3.9)&lt;br&gt;
+libsepol (2.6 -&gt; 2.7)&lt;br&gt;
+libunistring (0.9.9 -&gt; 0.9.10)&lt;br&gt;
+python-gst (1.12.5 -&gt; 1.14.1)&lt;br&gt;
+sensors (3.4.0 -&gt; 3.4.0git20180510.1c48b19)&lt;br&gt;
+sysvinit&lt;br&gt;
 </description>
 </item>
 </channel>
