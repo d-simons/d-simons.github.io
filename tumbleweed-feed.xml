@@ -5,6 +5,121 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180615 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00223.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00223.html</guid>
+<pubDate>Sun, 17 Jun 2018 19:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+analitza (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+bind&lt;br&gt;
+blinken (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+bovo (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+btrfsprogs&lt;br&gt;
+cervisia (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ffmpegthumbs (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+gstreamer-plugins-bad&lt;br&gt;
+hplip&lt;br&gt;
+hwinfo (21.53 -&gt; 21.55)&lt;br&gt;
+juk (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kalarm (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kalgebra (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kalzium (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kanagram (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kapptemplate (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+katomic (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kblackbox (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kblocks (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kbounce (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kbreakout (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kbruch (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kcachegrind (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kcron (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kde-print-manager (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kdeedu-data (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kdegraphics-thumbnailers (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kdf (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kdiamond (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+keditbookmarks (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kernel-source (4.16.12 -&gt; 4.17.1)&lt;br&gt;
+kgeography (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kget (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kgoldrunner (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+khangman (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kimagemapeditor (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kiriki (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kiten (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kjumpingcube (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+klettres (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+klines (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kmahjongg (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kmines (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kmouth (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kmplot (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+knavalbattle (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+knetwalk (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kolf (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kollision (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kolourpaint (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+konquest (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kpat (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kqtquickcharts (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+krdc (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kreversi (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+krfb (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kshisen (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ksirk (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kspaceduel (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ksquares (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ksudoku (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ksystemlog (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kteatime (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ktimer (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ktouch (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+ktuberling (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kturtle (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kubrick (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+kwordquiz (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+libinput (1.10.6 -&gt; 1.11.0)&lt;br&gt;
+libkdegames (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+libkeduvocdocument (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+libkmahjongg (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+libsndfile&lt;br&gt;
+libvirt (4.3.0 -&gt; 4.4.0)&lt;br&gt;
+libwacom (0.23 -&gt; 0.30)&lt;br&gt;
+lokalize (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+lskat (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+mailx&lt;br&gt;
+mbox-importer (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+mercurial (4.6 -&gt; 4.6.1)&lt;br&gt;
+mozilla-nss (3.36.1 -&gt; 3.36.4)&lt;br&gt;
+openconnect&lt;br&gt;
+parley (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+perl-HTTP-Message (6.16 -&gt; 6.18)&lt;br&gt;
+perl-libwww-perl (6.33 -&gt; 6.34)&lt;br&gt;
+pim-data-exporter (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+pim-sieve-editor (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+portaudio&lt;br&gt;
+poxml (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+pulseaudio&lt;br&gt;
+python-matplotlib&lt;br&gt;
+snapper (0.5.4 -&gt; 0.5.5)&lt;br&gt;
+sqlite3 (3.23.1 -&gt; 3.24.0)&lt;br&gt;
+step (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+sweeper (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+tigervnc&lt;br&gt;
+tumbler (0.2.0 -&gt; 0.2.1)&lt;br&gt;
+umbrello (18.04.1 -&gt; 18.04.2)&lt;br&gt;
+vim (8.1.0020 -&gt; 8.1.0042)&lt;br&gt;
+wdiff&lt;br&gt;
+xdg-desktop-portal-kde (5.12.90 -&gt; 5.13.0)&lt;br&gt;
+xfce4-dict (0.8.0 -&gt; 0.8.1)&lt;br&gt;
+xfce4-taskmanager (1.2.0 -&gt; 1.2.1)&lt;br&gt;
+xkbcomp (1.4.1 -&gt; 1.4.2)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180613 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00196.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00196.html</guid>
