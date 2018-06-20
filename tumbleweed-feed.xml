@@ -5,6 +5,23 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180618 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00252.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00252.html</guid>
+<pubDate>Tue, 19 Jun 2018 20:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+NetworkManager-applet&lt;br&gt;
+dracut&lt;br&gt;
+gcc7 (7.3.1+r258812 -&gt; 7.3.1+r261272)&lt;br&gt;
+llvm6&lt;br&gt;
+os-prober&lt;br&gt;
+perl-File-ShareDir (1.104 -&gt; 1.108)&lt;br&gt;
+python-numpy (1.14.3 -&gt; 1.14.5)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180615 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00223.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00223.html</guid>
