@@ -5,6 +5,63 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180620 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00269.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00269.html</guid>
+<pubDate>Fri, 22 Jun 2018 16:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+accountsservice (0.6.45 -&gt; 0.6.49)&lt;br&gt;
+acpid (2.0.28 -&gt; 2.0.29)&lt;br&gt;
+apulse (0.1.10 -&gt; 0.1.12)&lt;br&gt;
+autoyast2 (4.0.53 -&gt; 4.0.56)&lt;br&gt;
+bbswitch (0.8_k4.17.1_1 -&gt; 0.8_k4.17.2_1)&lt;br&gt;
+dpdk (18.02.1_k4.17.1_1 -&gt; 18.02.2_k4.17.2_1)&lt;br&gt;
+epiphany (3.28.2.1 -&gt; 3.28.3.1)&lt;br&gt;
+evolution-rss&lt;br&gt;
+exo (0.12.0 -&gt; 0.12.1)&lt;br&gt;
+hdjmod (1.28_k4.17.1_1 -&gt; 1.28_k4.17.2_1)&lt;br&gt;
+hylafax+&lt;br&gt;
+intel-vaapi-driver&lt;br&gt;
+kernel-source (4.17.1 -&gt; 4.17.2)&lt;br&gt;
+libguestfs&lt;br&gt;
+libstorage-ng (3.3.294 -&gt; 3.3.310)&lt;br&gt;
+link-grammar (5.4.4 -&gt; 5.5.0)&lt;br&gt;
+lxterminal&lt;br&gt;
+nano (2.9.7 -&gt; 2.9.8)&lt;br&gt;
+ncftp&lt;br&gt;
+okteta (17.12.3 -&gt; 0.25.0)&lt;br&gt;
+patterns-yast (20180427 -&gt; 20180613)&lt;br&gt;
+perl-Date-Manip (6.70 -&gt; 6.72)&lt;br&gt;
+perl-Image-ExifTool (11.00 -&gt; 11.01)&lt;br&gt;
+polkit-default-privs&lt;br&gt;
+pulseaudio&lt;br&gt;
+python-pygame&lt;br&gt;
+squid (4.0.24 -&gt; 4.0.25)&lt;br&gt;
+systemd&lt;br&gt;
+thunar (1.6.14 -&gt; 1.8.1)&lt;br&gt;
+thunar-plugin-archive (0.3.1 -&gt; 0.4.0)&lt;br&gt;
+thunar-plugin-media-tags (0.2.1 -&gt; 0.3.0)&lt;br&gt;
+thunar-volman (0.8.1 -&gt; 0.9.0)&lt;br&gt;
+tmux&lt;br&gt;
+transactional-update (2.4 -&gt; 2.5)&lt;br&gt;
+xdg-desktop-portal-kde (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+xfdesktop&lt;br&gt;
+xtables-addons (3.0_k4.17.1_1 -&gt; 3.0_k4.17.2_1)&lt;br&gt;
+yast2 (4.0.74 -&gt; 4.0.77)&lt;br&gt;
+yast2-add-on (4.0.8 -&gt; 4.1.0)&lt;br&gt;
+yast2-bootloader (4.1.0 -&gt; 4.1.4)&lt;br&gt;
+yast2-firstboot (4.0.4 -&gt; 4.0.5)&lt;br&gt;
+yast2-installation (4.0.61 -&gt; 4.1.2)&lt;br&gt;
+yast2-journal (4.0.0 -&gt; 4.1.0)&lt;br&gt;
+yast2-packager (4.0.63 -&gt; 4.1.0)&lt;br&gt;
+yast2-pkg-bindings (4.0.10 -&gt; 4.0.11)&lt;br&gt;
+yast2-storage-ng (4.0.183 -&gt; 4.0.192)&lt;br&gt;
+yast2-update (4.0.12 -&gt; 4.0.16)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180618 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00252.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00252.html</guid>
