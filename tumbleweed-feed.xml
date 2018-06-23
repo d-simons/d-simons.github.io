@@ -5,6 +5,136 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180622 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00285.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00285.html</guid>
+<pubDate>Sat, 23 Jun 2018 23:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+attica-qt5 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+baloo5 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+bijiben (3.28.1 -&gt; 3.28.3)&lt;br&gt;
+bluez (5.49 -&gt; 5.50)&lt;br&gt;
+bluez-qt (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+breeze5-icons (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+cairo&lt;br&gt;
+chrome-gnome-shell&lt;br&gt;
+elfutils (0.171 -&gt; 0.172)&lt;br&gt;
+evolution (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+evolution-data-server (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+evolution-ews (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+frameworkintegration (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+gnome-calculator (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+gnome-logs (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+gpg2 (2.2.7 -&gt; 2.2.8)&lt;br&gt;
+graphene (1.8.0 -&gt; 1.8.2)&lt;br&gt;
+gspell (1.8.0 -&gt; 1.8.1)&lt;br&gt;
+gstreamer-plugins-base&lt;br&gt;
+gtk3&lt;br&gt;
+gtksourceview (3.24.7 -&gt; 3.24.8)&lt;br&gt;
+harfbuzz (1.7.6 -&gt; 1.8.1)&lt;br&gt;
+jsonrpc-glib (3.28.0 -&gt; 3.28.1)&lt;br&gt;
+kactivities-stats (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kactivities5 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+karchive (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kate&lt;br&gt;
+kauth (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kbookmarks (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kcmutils (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kcodecs (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kcompletion (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kconfig (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kconfigwidgets (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kcoreaddons (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kcrash (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kdbusaddons (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kdeclarative (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kded (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kdelibs4support (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kdesu (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kdewebkit (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kdnssd-framework (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kdoctools (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kemoticons (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kfilemetadata5 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kglobalaccel (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kguiaddons (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kholidays (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+khtml (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+ki18n (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kiconthemes (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kidletime (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kimageformats (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kinit (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kio (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kirigami2 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kitemmodels (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kitemviews (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kjobwidgets (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kjs (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kjsembed (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kmod&lt;br&gt;
+knewstuff (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+knotifications (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+knotifyconfig (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kpackage (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kparts (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kpeople5 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kplotting (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kpty (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kross (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+krunner (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kservice (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+ktexteditor (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+ktextwidgets (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kunitconversion (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kwallet (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kwayland (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kwidgetsaddons (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kwindowsystem (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kxmlgui (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+kxmlrpcclient5 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+libKF5ModemManagerQt (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+libKF5NetworkManagerQt (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+libdazzle (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+libgcrypt (1.8.2 -&gt; 1.8.3)&lt;br&gt;
+libgpod&lt;br&gt;
+libgweather (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+libimobiledevice (1.2.0+git20170122.45fda81 -&gt; 1.2.0+git20180427.26373b3)&lt;br&gt;
+libjpeg-turbo&lt;br&gt;
+liblouis (3.5.0 -&gt; 3.6.0)&lt;br&gt;
+libqt5-qtbase&lt;br&gt;
+logrotate&lt;br&gt;
+messagelib&lt;br&gt;
+obs-service-source_validator (0.16 -&gt; 0.17)&lt;br&gt;
+osinfo-db (20180531 -&gt; 20180612)&lt;br&gt;
+ovmf (2018+git1525854636.13e3f8c03339 -&gt; 2018+git1528497654.eb5943134630)&lt;br&gt;
+oxygen5-icon-theme (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+patterns-kde&lt;br&gt;
+perl-Net-Netmask (1.9022 -&gt; 1.9101)&lt;br&gt;
+pesign-obs-integration&lt;br&gt;
+plasma-framework (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+plasma5-pk-updates&lt;br&gt;
+prison-qt5 (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+procps (3.3.14 -&gt; 3.3.15)&lt;br&gt;
+purpose (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+python-cryptography (2.2.1 -&gt; 2.2.2)&lt;br&gt;
+solid (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+sonnet (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+syntax-highlighting (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+threadweaver (5.46.0 -&gt; 5.47.0)&lt;br&gt;
+totem (3.26.0 -&gt; 3.26.1)&lt;br&gt;
+totem-pl-parser (3.26.0+20180301.0091a56 -&gt; 3.26.1+20180614.d22b155)&lt;br&gt;
+virt-manager&lt;br&gt;
+yast2-tftp-server (4.0.2 -&gt; 4.1.0)&lt;br&gt;
+yast2-vpn (3.1.5 -&gt; 4.0.0)&lt;br&gt;
+ypbind (2.4 -&gt; 2.5)&lt;br&gt;
+zstd&lt;br&gt;
+zypper (1.14.5 -&gt; 1.14.6)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180620 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00269.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00269.html</guid>
