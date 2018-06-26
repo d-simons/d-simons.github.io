@@ -5,6 +5,36 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180625 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00340.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00340.html</guid>
+<pubDate>Tue, 26 Jun 2018 14:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+btrfsprogs (4.16.1 -&gt; 4.17)&lt;br&gt;
+exo (0.12.1 -&gt; 0.12.2)&lt;br&gt;
+ffmpeg (3.4.2 -&gt; 4.0)&lt;br&gt;
+ffmpeg3&lt;br&gt;
+grub2&lt;br&gt;
+gstreamer-rtsp-server&lt;br&gt;
+hdf5&lt;br&gt;
+java-10-openjdk&lt;br&gt;
+libXaw&lt;br&gt;
+libinput (1.11.0 -&gt; 1.11.1)&lt;br&gt;
+libosinfo (1.1.0 -&gt; 1.2.0)&lt;br&gt;
+libquicktime (1.2.4cvs20150223 -&gt; 1.2.4+git20180207.666c35c)&lt;br&gt;
+net-snmp&lt;br&gt;
+openldap2&lt;br&gt;
+polkit-default-privs&lt;br&gt;
+psmisc&lt;br&gt;
+pulseaudio (11.99.1 -&gt; 12.0)&lt;br&gt;
+unbound (1.7.2 -&gt; 1.7.3)&lt;br&gt;
+vsftpd&lt;br&gt;
+xfce4-settings (4.12.3 -&gt; 4.12.4)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180623 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00288.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00288.html</guid>
