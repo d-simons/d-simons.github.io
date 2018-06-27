@@ -5,6 +5,79 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180626 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00349.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00349.html</guid>
+<pubDate>Wed, 27 Jun 2018 21:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+automake&lt;br&gt;
+bluedevil5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+breeze (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+breeze-gtk (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+breeze4-style (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+discover (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+drkonqi5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+flatpak (0.11.7 -&gt; 0.11.8.3)&lt;br&gt;
+gcc&lt;br&gt;
+kactivitymanagerd (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kcm_sddm (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kde-cli-tools5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kde-gtk-config5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kde-user-manager (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kgamma5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+khotkeys5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kinfocenter5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kmenuedit5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kscreen5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kscreenlocker (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+ksshaskpass5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+ksysguard5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kwayland-integration (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+kwin5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+libkdecoration2 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+libkscreen2 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+libksysguard5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+libqt5-qtbase (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtconnectivity (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtdeclarative (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtgraphicaleffects (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtimageformats (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtlocation (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtmultimedia (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtquickcontrols (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtquickcontrols2 (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtscript (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtsensors (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtserialport (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtspeech (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtsvg (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qttools (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtwayland (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtwebchannel (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtwebengine (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtwebkit&lt;br&gt;
+libqt5-qtwebsockets (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtx11extras (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+libqt5-qtxmlpatterns (5.11.0 -&gt; 5.11.1)&lt;br&gt;
+milou5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+oxygen5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+plasma-nm5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+plasma5-addons (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+plasma5-desktop (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+plasma5-integration (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+plasma5-openSUSE&lt;br&gt;
+plasma5-pa (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+plasma5-workspace (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+polkit-kde-agent-5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+powerdevil5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+rpm&lt;br&gt;
+systemsettings5 (5.13.0 -&gt; 5.13.1)&lt;br&gt;
+zlib&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180625 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00340.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00340.html</guid>
