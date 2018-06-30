@@ -5,6 +5,30 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180628 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00367.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00367.html</guid>
+<pubDate>Sat, 30 Jun 2018 16:00:04 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+bcm43xx-firmware&lt;br&gt;
+gnome-builder (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+gstreamer-plugins-bad&lt;br&gt;
+gstreamer-plugins-good&lt;br&gt;
+kernel-source (4.17.2 -&gt; 4.17.3)&lt;br&gt;
+mpg123&lt;br&gt;
+openafs&lt;br&gt;
+perl-Cpanel-JSON-XS (4.02 -&gt; 4.04)&lt;br&gt;
+units (2.16 -&gt; 2.17)&lt;br&gt;
+v4l2loopback (0.11.0_k4.17.2_1 -&gt; 0.11.0_k4.17.3_1)&lt;br&gt;
+vala (0.40.6 -&gt; 0.40.7)&lt;br&gt;
+xdg-desktop-portal-kde (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+yast2-journal (4.1.0 -&gt; 4.1.1)&lt;br&gt;
+yast2-tftp-server (4.1.0 -&gt; 4.1.1)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180627 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-06/msg00352.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-06/msg00352.html</guid>
