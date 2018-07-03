@@ -5,6 +5,67 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180701 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00022.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00022.html</guid>
+<pubDate>Tue, 03 Jul 2018 16:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+bluedevil5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+breeze (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+breeze-gtk (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+breeze4-style (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+discover (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+drkonqi5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+glib2-branding-openSUSE&lt;br&gt;
+kactivitymanagerd (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kcm_sddm (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kde-cli-tools5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kde-gtk-config5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kde-user-manager (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kgamma5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+khotkeys5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kinfocenter5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kmenuedit5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+konversation (1.7.4 -&gt; 1.7.5)&lt;br&gt;
+kscreen5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kscreenlocker (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+ksshaskpass5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+ksysguard5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kwayland-integration (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+kwin5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+libKF5NetworkManagerQt&lt;br&gt;
+libblockdev (2.17 -&gt; 2.18)&lt;br&gt;
+libkdecoration2 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+libkscreen2 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+libksysguard5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+libqt5-qtbase&lt;br&gt;
+libstorage-ng (3.3.310 -&gt; 3.3.312)&lt;br&gt;
+milou5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+orca (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+oxygen5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+patterns-kde&lt;br&gt;
+plasma-nm5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+plasma5-addons (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+plasma5-desktop (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+plasma5-integration (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+plasma5-openSUSE&lt;br&gt;
+plasma5-pa (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+plasma5-workspace (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+polkit-kde-agent-5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+powerdevil5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+ristretto (0.8.2 -&gt; 0.8.3)&lt;br&gt;
+systemsettings5 (5.13.1 -&gt; 5.13.2)&lt;br&gt;
+yast2-installation (4.1.2 -&gt; 4.1.3)&lt;br&gt;
+yast2-packager (4.1.0 -&gt; 4.1.1)&lt;br&gt;
+yast2-services-manager (4.0.3 -&gt; 4.0.4)&lt;br&gt;
+yast2-snapper (4.0.1 -&gt; 4.0.2)&lt;br&gt;
+yast2-storage-ng (4.0.193 -&gt; 4.0.194)&lt;br&gt;
+yast2-tune (4.0.0 -&gt; 4.0.1)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180629 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00008.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00008.html</guid>
