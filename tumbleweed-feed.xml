@@ -5,6 +5,39 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180702 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00039.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00039.html</guid>
+<pubDate>Wed, 04 Jul 2018 16:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+brotli (1.0.3 -&gt; 1.0.5)&lt;br&gt;
+checkmedia (3.8 -&gt; 4.0)&lt;br&gt;
+efivar (31 -&gt; 36)&lt;br&gt;
+ffmpeg (4.0 -&gt; 4.0.1)&lt;br&gt;
+fwupdate (9+git21.gcd8f7d7 -&gt; 11)&lt;br&gt;
+glibc&lt;br&gt;
+glibc&lt;br&gt;
+grub2&lt;br&gt;
+libiscsi&lt;br&gt;
+libqt5-qtwebengine&lt;br&gt;
+linux-glibc-devel (4.16 -&gt; 4.17)&lt;br&gt;
+lz4 (1.8.1.2 -&gt; 1.8.2)&lt;br&gt;
+mariadb-connector-c&lt;br&gt;
+opal&lt;br&gt;
+openldap2&lt;br&gt;
+p11-kit (0.23.2 -&gt; 0.23.12)&lt;br&gt;
+python-pytz (2018.3 -&gt; 2018.5)&lt;br&gt;
+rdma-core (16.4 -&gt; 18.1)&lt;br&gt;
+spec-cleaner (1.0.9 -&gt; 1.1.0)&lt;br&gt;
+sqlite3&lt;br&gt;
+srt&lt;br&gt;
+sssd (1.16.1 -&gt; 1.16.2)&lt;br&gt;
+xen (4.10.1_02 -&gt; 4.10.1_08)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180701 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00022.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00022.html</guid>
