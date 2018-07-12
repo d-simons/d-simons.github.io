@@ -5,6 +5,21 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180710 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00079.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00079.html</guid>
+<pubDate>Thu, 12 Jul 2018 19:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+acpica (20180313 -&gt; 20180629)&lt;br&gt;
+icu&lt;br&gt;
+mtd-utils (2.0.1 -&gt; 2.0.2)&lt;br&gt;
+translation-update (13.2 -&gt; 15.0)&lt;br&gt;
+xen&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180709 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00069.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00069.html</guid>
