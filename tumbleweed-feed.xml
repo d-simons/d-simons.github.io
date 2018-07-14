@@ -5,6 +5,27 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180712 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00093.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00093.html</guid>
+<pubDate>Sat, 14 Jul 2018 01:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+ffmpeg-3&lt;br&gt;
+ffmpeg-4&lt;br&gt;
+gjs&lt;br&gt;
+grub2&lt;br&gt;
+libproxy&lt;br&gt;
+libproxy-plugins&lt;br&gt;
+libqt5-qtwayland&lt;br&gt;
+mutter&lt;br&gt;
+polkit-default-privs&lt;br&gt;
+sddm&lt;br&gt;
+xdg-desktop-portal-kde (5.13.2 -&gt; 5.13.3)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180710 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00079.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00079.html</guid>
