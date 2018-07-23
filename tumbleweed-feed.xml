@@ -5,6 +5,99 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180721 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00162.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00162.html</guid>
+<pubDate>Mon, 23 Jul 2018 14:00:04 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+attica-qt5 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+baloo5 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+bluez-qt (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+breeze5-icons (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+efivar (36 -&gt; 35)&lt;br&gt;
+frameworkintegration (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kactivities-stats (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kactivities5 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+karchive (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kauth (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kbookmarks (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kcmutils (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kcodecs (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kcompletion (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kconfig (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kconfigwidgets (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kcoreaddons (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kcrash (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kdbusaddons (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kdeclarative (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kded (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kdelibs4support (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kdesu (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kdewebkit (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kdnssd-framework (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kdoctools (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kemoticons (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kernel-source (4.17.6 -&gt; 4.17.7)&lt;br&gt;
+kfilemetadata5 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kglobalaccel (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kguiaddons (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kholidays (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+khtml (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+ki18n (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kiconthemes (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kidletime (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kimageformats (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kinit (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kio (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kirigami2 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kitemmodels (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kitemviews (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kjobwidgets (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kjs (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kjsembed (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+knewstuff (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+knotifications (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+knotifyconfig (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kpackage (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kparts (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kpeople5 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kplotting (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kpty (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kross (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+krunner (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kservice (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+ktexteditor (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+ktextwidgets (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kunitconversion (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kwallet (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kwayland (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kwidgetsaddons (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kwindowsystem (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kxmlgui (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+kxmlrpcclient5 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+libKF5ModemManagerQt (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+libKF5NetworkManagerQt (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+oxygen5-icon-theme (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+patterns-kde&lt;br&gt;
+plasma-framework (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+prison-qt5 (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+purpose (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+python-Pygments&lt;br&gt;
+python-cryptography (2.2.2 -&gt; 2.3)&lt;br&gt;
+python-pycurl (7.43.0.1 -&gt; 7.43.0.2)&lt;br&gt;
+python-requests&lt;br&gt;
+python-urllib3&lt;br&gt;
+qalculate (2.5.0 -&gt; 2.6.1)&lt;br&gt;
+rubygem-sass (3.5.6 -&gt; 3.5.7)&lt;br&gt;
+solid (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+sonnet (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+syntax-highlighting (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+threadweaver (5.47.0 -&gt; 5.48.0)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180719 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00147.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00147.html</guid>
