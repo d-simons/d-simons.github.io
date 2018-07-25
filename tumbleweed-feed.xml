@@ -5,6 +5,37 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180723 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00183.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00183.html</guid>
+<pubDate>Wed, 25 Jul 2018 10:00:03 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+cups-filters (1.20.3 -&gt; 1.20.4)&lt;br&gt;
+emacs&lt;br&gt;
+emacs-w3m&lt;br&gt;
+gcc8 (8.1.1+r261583 -&gt; 8.1.1+r262873)&lt;br&gt;
+ibus&lt;br&gt;
+icecream&lt;br&gt;
+inxi (3.0.10 -&gt; 3.0.18)&lt;br&gt;
+libsoup&lt;br&gt;
+osinfo-db (20180612 -&gt; 20180720)&lt;br&gt;
+perl-Exporter-Tiny (1.000000 -&gt; 1.002001)&lt;br&gt;
+perl-IO-Socket-SSL (2.056 -&gt; 2.058)&lt;br&gt;
+poppler (0.63.0 -&gt; 0.66.0)&lt;br&gt;
+poppler-qt5 (0.63.0 -&gt; 0.66.0)&lt;br&gt;
+re2 (20180401 -&gt; 20180701)&lt;br&gt;
+sudo&lt;br&gt;
+sysdig (0.21.0_k4.17.7_1 -&gt; 0.22.0_k4.17.7_1)&lt;br&gt;
+texlive&lt;br&gt;
+vim (8.1.0179 -&gt; 8.1.0200)&lt;br&gt;
+webkit2gtk3&lt;br&gt;
+wireshark (2.6.1 -&gt; 2.6.2)&lt;br&gt;
+wpa_supplicant&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180722 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00168.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00168.html</guid>
