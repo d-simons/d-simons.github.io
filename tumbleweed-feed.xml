@@ -5,6 +5,54 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180726 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00199.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00199.html</guid>
+<pubDate>Fri, 27 Jul 2018 17:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+ImageMagick (7.0.8.3 -&gt; 7.0.8.6)&lt;br&gt;
+apache-commons-collections&lt;br&gt;
+apache-commons-daemon&lt;br&gt;
+apache-commons-dbcp&lt;br&gt;
+apache-commons-io&lt;br&gt;
+apache-commons-logging&lt;br&gt;
+apache-commons-pool2&lt;br&gt;
+avalon-framework&lt;br&gt;
+bea-stax&lt;br&gt;
+dnsmasq&lt;br&gt;
+fwupdate (11 -&gt; 12)&lt;br&gt;
+geronimo-specs&lt;br&gt;
+gpg2&lt;br&gt;
+javapackages-tools (5.0.0+git20180104.9367c8f6 -&gt; 5.2.0+git20180620.70fa2258)&lt;br&gt;
+kernel-source (4.17.7 -&gt; 4.17.9)&lt;br&gt;
+libevent&lt;br&gt;
+libstorage-ng (3.3.316 -&gt; 4.1.0)&lt;br&gt;
+mailman (2.1.27 -&gt; 2.1.28)&lt;br&gt;
+mozjs52&lt;br&gt;
+mtools&lt;br&gt;
+multipath-tools (0.7.3+67+suse.8f0c27b -&gt; 0.7.7+75+suse.6287aef)&lt;br&gt;
+npth (1.5 -&gt; 1.6)&lt;br&gt;
+plasma5-workspace&lt;br&gt;
+psgml&lt;br&gt;
+pulseaudio (12.0 -&gt; 12.2)&lt;br&gt;
+rubygem-uglifier (4.1.15 -&gt; 4.1.16)&lt;br&gt;
+sddm (0.17.0 -&gt; 0.18.0)&lt;br&gt;
+snapper (0.5.5 -&gt; 0.5.6)&lt;br&gt;
+subversion&lt;br&gt;
+vid_stab&lt;br&gt;
+virt-manager&lt;br&gt;
+vlc&lt;br&gt;
+whois (5.3.1 -&gt; 5.3.2)&lt;br&gt;
+xmlgraphics-batik&lt;br&gt;
+yast2-bootloader (4.1.5 -&gt; 4.1.6)&lt;br&gt;
+yast2-core (4.0.2 -&gt; 4.0.3)&lt;br&gt;
+yast2-packager (4.1.1 -&gt; 4.1.2)&lt;br&gt;
+yast2-storage-ng (4.0.195 -&gt; 4.0.199)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180723 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00183.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00183.html</guid>
