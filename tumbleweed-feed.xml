@@ -5,6 +5,104 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180731 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00056.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00056.html</guid>
+<pubDate>Thu, 02 Aug 2018 19:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+NetworkManager-vpnc (1.2.4 -&gt; 1.2.6)&lt;br&gt;
+accountsservice (0.6.49 -&gt; 0.6.50)&lt;br&gt;
+acpid&lt;br&gt;
+bind&lt;br&gt;
+brotli&lt;br&gt;
+curl (7.60.0 -&gt; 7.61.0)&lt;br&gt;
+devhelp (3.28.1 -&gt; 3.30.0)&lt;br&gt;
+device-mapper&lt;br&gt;
+efivar&lt;br&gt;
+emacs-apel&lt;br&gt;
+enblend-enfuse&lt;br&gt;
+eog (3.28.2 -&gt; 3.28.3)&lt;br&gt;
+file-roller&lt;br&gt;
+fwupd (1.0.6 -&gt; 1.1.0)&lt;br&gt;
+gnome-bluetooth (3.28.0 -&gt; 3.28.1)&lt;br&gt;
+gnome-control-center&lt;br&gt;
+gnome-dictionary&lt;br&gt;
+gnome-disk-utility&lt;br&gt;
+gnome-documents&lt;br&gt;
+gnome-session&lt;br&gt;
+gnome-settings-daemon&lt;br&gt;
+gnome-shell (3.28.2+20180519.a52597ac5 -&gt; 3.28.3+20180724.2a2f3c981)&lt;br&gt;
+gnome-shell-extensions&lt;br&gt;
+gstreamer (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-editing-services (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-plugins-bad (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-plugins-base (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-plugins-good (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-plugins-libav (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-plugins-ugly (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-rtsp-server (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gstreamer-validate (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+gtk3&lt;br&gt;
+gvfs&lt;br&gt;
+installation-images-Kubic (14.378 -&gt; 14.379)&lt;br&gt;
+java-10-openjdk (10.0.1.0 -&gt; 10.0.2.0)&lt;br&gt;
+kernel-firmware (20180606 -&gt; 20180717)&lt;br&gt;
+kernel-source (4.17.9 -&gt; 4.17.11)&lt;br&gt;
+kmod&lt;br&gt;
+kvm_stat (4.17.0 -&gt; 4.17.10)&lt;br&gt;
+libgphoto2 (2.5.18.1 -&gt; 2.5.19)&lt;br&gt;
+libreoffice (6.1.0.1 -&gt; 6.1.0.2)&lt;br&gt;
+libvirt (4.4.0 -&gt; 4.5.0)&lt;br&gt;
+libyui-ncurses-pkg (2.48.5 -&gt; 2.48.7)&lt;br&gt;
+libyui-qt-pkg (2.45.18 -&gt; 2.45.19)&lt;br&gt;
+linux-glibc-devel&lt;br&gt;
+llvm6 (6.0.0 -&gt; 6.0.1)&lt;br&gt;
+lvm2&lt;br&gt;
+mailman (2.1.28 -&gt; 2.1.29)&lt;br&gt;
+make&lt;br&gt;
+mariadb (10.2.15 -&gt; 10.2.16)&lt;br&gt;
+meanwhile&lt;br&gt;
+mhvtl (1.53_release_k4.17.9_1 -&gt; 1.53_release_k4.17.11_1)&lt;br&gt;
+mozc&lt;br&gt;
+mutter (3.28.2+20180526.abc7ad8e9 -&gt; 3.28.3+20180719.62660bbd1)&lt;br&gt;
+mxml (2.10 -&gt; 2.11)&lt;br&gt;
+openconnect&lt;br&gt;
+openpgm&lt;br&gt;
+oprofile (1.2.0 -&gt; 1.3.0)&lt;br&gt;
+pango (1.42.1 -&gt; 1.42.2)&lt;br&gt;
+patterns-base&lt;br&gt;
+patterns-devel-base&lt;br&gt;
+pcre2&lt;br&gt;
+perl-DBD-CSV (0.49 -&gt; 0.53)&lt;br&gt;
+perl-FileHandle-Unget (0.1628 -&gt; 0.1634)&lt;br&gt;
+perl-Mail-Mbox-MessageParser (1.5105 -&gt; 1.5111)&lt;br&gt;
+perl-Net-DNS (1.15 -&gt; 1.17)&lt;br&gt;
+perl-XML-LibXML&lt;br&gt;
+perl-XML-SAX&lt;br&gt;
+perl-XML-SAX-Expat&lt;br&gt;
+polari (3.28.0 -&gt; 3.28.1)&lt;br&gt;
+publicsuffix (20180523 -&gt; 20180719)&lt;br&gt;
+python-gobject2&lt;br&gt;
+python-gst (1.14.1 -&gt; 1.14.2)&lt;br&gt;
+python-libvirt-python (4.4.0 -&gt; 4.5.0)&lt;br&gt;
+python-parso&lt;br&gt;
+rubygem-mysql2 (0.4.10 -&gt; 0.5.2)&lt;br&gt;
+sddm&lt;br&gt;
+sendmail&lt;br&gt;
+spice&lt;br&gt;
+totem (3.26.1 -&gt; 3.26.2)&lt;br&gt;
+virt-viewer (6.0 -&gt; 7.0)&lt;br&gt;
+woff2&lt;br&gt;
+xfsdump (3.1.6 -&gt; 3.1.8)&lt;br&gt;
+yast2-dns-server (4.0.3 -&gt; 4.0.4)&lt;br&gt;
+yast2-snapper (4.0.2 -&gt; 4.0.4)&lt;br&gt;
+yast2-update (4.0.17 -&gt; 4.1.0)&lt;br&gt;
+zeromq&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180726 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-07/msg00199.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-07/msg00199.html</guid>
