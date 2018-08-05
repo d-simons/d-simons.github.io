@@ -5,6 +5,111 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180803 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00103.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00103.html</guid>
+<pubDate>Sun, 05 Aug 2018 01:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+Mesa&lt;br&gt;
+Mesa-drivers&lt;br&gt;
+ModemManager (1.6.12 -&gt; 1.6.14)&lt;br&gt;
+apache2 (2.4.33 -&gt; 2.4.34)&lt;br&gt;
+autogen (5.18.12 -&gt; 5.18.14)&lt;br&gt;
+baobab&lt;br&gt;
+bluedevil5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+breeze (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+breeze-gtk (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+breeze4-style (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+cheese&lt;br&gt;
+clamav (0.100.0 -&gt; 0.100.1)&lt;br&gt;
+discover (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+drkonqi5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+eog-plugins (3.26.2 -&gt; 3.26.3)&lt;br&gt;
+evolution (3.28.4 -&gt; 3.28.5)&lt;br&gt;
+evolution-data-server (3.28.4 -&gt; 3.28.5)&lt;br&gt;
+evolution-ews (3.28.4 -&gt; 3.28.5)&lt;br&gt;
+ffmpeg-4&lt;br&gt;
+flatpak&lt;br&gt;
+gdm&lt;br&gt;
+geoclue2 (2.4.10 -&gt; 2.4.11)&lt;br&gt;
+gnome-builder (3.28.3 -&gt; 3.28.4)&lt;br&gt;
+gnutls&lt;br&gt;
+grub2&lt;br&gt;
+iputils&lt;br&gt;
+kactivitymanagerd (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kcm_sddm (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kde-cli-tools5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kde-gtk-config5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kde-user-manager (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kernel-firmware (20180717 -&gt; 20180730)&lt;br&gt;
+kgamma5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+khotkeys5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kinfocenter5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kmenuedit5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kscreen5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kscreenlocker (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+ksshaskpass5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+ksysguard5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kwayland-integration (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+kwin5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+libdazzle (3.28.3 -&gt; 3.28.5)&lt;br&gt;
+libdnet&lt;br&gt;
+libebml (1.3.5 -&gt; 1.3.6)&lt;br&gt;
+libinput (1.11.2 -&gt; 1.11.3)&lt;br&gt;
+libkdecoration2 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+libkscreen2 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+libksysguard5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+liblouis&lt;br&gt;
+libmatroska (1.4.8 -&gt; 1.4.9)&lt;br&gt;
+libopenmpt (0.3.9 -&gt; 0.3.11)&lt;br&gt;
+libzypp (17.4.0 -&gt; 17.5.2)&lt;br&gt;
+lzo&lt;br&gt;
+mariadb&lt;br&gt;
+milou5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+nfs-utils&lt;br&gt;
+oxygen5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+pango (1.42.2 -&gt; 1.42.3)&lt;br&gt;
+patterns-devel-base&lt;br&gt;
+patterns-kde&lt;br&gt;
+permissions (20180508 -&gt; 20180724)&lt;br&gt;
+plasma-browser-integration (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+plasma-nm5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+plasma5-addons (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+plasma5-desktop (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+plasma5-integration (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+plasma5-openSUSE&lt;br&gt;
+plasma5-pa (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+plasma5-workspace (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+polkit-default-privs&lt;br&gt;
+polkit-kde-agent-5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+powerdevil5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+python-pip (10.0.1 -&gt; 18.0)&lt;br&gt;
+qemu&lt;br&gt;
+qemu-linux-user&lt;br&gt;
+rubygem-autoprefixer-rails (9.0.0 -&gt; 9.0.2)&lt;br&gt;
+rubygem-uglifier (4.1.16 -&gt; 4.1.17)&lt;br&gt;
+sddm&lt;br&gt;
+skopeo (0.1.28 -&gt; 0.1.31)&lt;br&gt;
+systemd&lt;br&gt;
+systemsettings5 (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+texlive-specs-m (2018.155.pl3svn47500 -&gt; 2018.158.pl3svn47500)&lt;br&gt;
+texlive-specs-n (2018.151.2.004svn28119 -&gt; 2018.158.2.004svn28119)&lt;br&gt;
+totem-pl-parser (3.26.1+20180614.d22b155 -&gt; 3.26.1+20180713.b7f36dd)&lt;br&gt;
+tracker (2.0.4 -&gt; 2.1.0)&lt;br&gt;
+tracker-miners (2.0.4 -&gt; 2.1.0)&lt;br&gt;
+upower (0.99.7 -&gt; 0.99.8)&lt;br&gt;
+vim (8.1.0200 -&gt; 8.1.0229)&lt;br&gt;
+virglrenderer&lt;br&gt;
+xapian-core&lt;br&gt;
+xdg-desktop-portal-kde (5.13.3 -&gt; 5.13.4)&lt;br&gt;
+xdm&lt;br&gt;
+xinetd (2.3.15.3 -&gt; 2.3.15.4)&lt;br&gt;
+xorg-x11-server&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180731 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00056.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00056.html</guid>
