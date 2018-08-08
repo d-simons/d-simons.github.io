@@ -5,6 +5,29 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180806 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00128.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00128.html</guid>
+<pubDate>Wed, 08 Aug 2018 02:00:03 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+blog (2.18 -&gt; 2.19)&lt;br&gt;
+findutils&lt;br&gt;
+gzip&lt;br&gt;
+kbd&lt;br&gt;
+libreoffice (6.1.0.2 -&gt; 6.1.0.3)&lt;br&gt;
+lockdev&lt;br&gt;
+nodejs10&lt;br&gt;
+numactl&lt;br&gt;
+parted&lt;br&gt;
+permissions (20180724 -&gt; 20180802)&lt;br&gt;
+sysvinit&lt;br&gt;
+virtualbox (5.2.14_k4.17.12_1 -&gt; 5.2.16_k4.17.12_1)&lt;br&gt;
+yast2-dhcp-server (4.0.1 -&gt; 4.0.2)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180804 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00116.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00116.html</guid>
