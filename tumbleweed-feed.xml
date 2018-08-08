@@ -5,6 +5,47 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180807 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00150.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00150.html</guid>
+<pubDate>Wed, 08 Aug 2018 19:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+Mesa (18.1.4 -&gt; 18.1.5)&lt;br&gt;
+Mesa-drivers (18.1.4 -&gt; 18.1.5)&lt;br&gt;
+chrony (3.2 -&gt; 3.3)&lt;br&gt;
+freeipmi&lt;br&gt;
+gdm&lt;br&gt;
+gnome-bluetooth (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+gnome-shell-extensions&lt;br&gt;
+gsl&lt;br&gt;
+gstreamer-plugins-bad&lt;br&gt;
+gupnp (1.0.2 -&gt; 1.0.3)&lt;br&gt;
+jfsutils&lt;br&gt;
+libjpeg-turbo (1.5.3 -&gt; 2.0.0)&lt;br&gt;
+libpng16&lt;br&gt;
+libsolv&lt;br&gt;
+libvirt (4.5.0 -&gt; 4.6.0)&lt;br&gt;
+log4j&lt;br&gt;
+mailutils&lt;br&gt;
+memtest86+&lt;br&gt;
+openssl-1_1&lt;br&gt;
+plymouth&lt;br&gt;
+python-kiwi (9.16.2 -&gt; 9.16.6)&lt;br&gt;
+python-py (1.5.3 -&gt; 1.5.4)&lt;br&gt;
+reiserfs&lt;br&gt;
+rubygem-autoprefixer-rails (9.0.2 -&gt; 9.1.0)&lt;br&gt;
+spice-gtk&lt;br&gt;
+squashfs&lt;br&gt;
+strace&lt;br&gt;
+tbb&lt;br&gt;
+tigervnc (1.8.0 -&gt; 1.9.0)&lt;br&gt;
+tracker (2.1.0 -&gt; 2.1.1)&lt;br&gt;
+vim (8.1.0229 -&gt; 8.1.0235)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180806 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00128.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00128.html</guid>
