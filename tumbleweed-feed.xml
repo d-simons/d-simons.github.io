@@ -5,6 +5,32 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180820 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00233.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00233.html</guid>
+<pubDate>Thu, 23 Aug 2018 14:00:03 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+Mesa (18.1.5 -&gt; 18.1.6)&lt;br&gt;
+Mesa-drivers (18.1.5 -&gt; 18.1.6)&lt;br&gt;
+libdrm (2.4.92 -&gt; 2.4.93)&lt;br&gt;
+libgit2 (0.27.3 -&gt; 0.27.4)&lt;br&gt;
+libstorage-ng (4.1.11 -&gt; 4.1.15)&lt;br&gt;
+mercurial (4.6.2 -&gt; 4.7)&lt;br&gt;
+nbd&lt;br&gt;
+ntfs-3g_ntfsprogs (2016.2.22 -&gt; 2017.3.23)&lt;br&gt;
+ocfs2-tools&lt;br&gt;
+osc (0.162.1 -&gt; 0.163.0)&lt;br&gt;
+purple-rocketchat (0.0+hg20180711 -&gt; 0.0+hg20180817)&lt;br&gt;
+rubygem-autoprefixer-rails (9.1.1 -&gt; 9.1.2)&lt;br&gt;
+spec-cleaner (1.1.0 -&gt; 1.1.1)&lt;br&gt;
+ucode-intel (20180703 -&gt; 20180807)&lt;br&gt;
+wayland (1.14.0 -&gt; 1.15.0)&lt;br&gt;
+xorg-x11-server (1.20.0 -&gt; 1.20.1)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180818 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00215.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00215.html</guid>
