@@ -5,6 +5,56 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180828 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00330.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00330.html</guid>
+<pubDate>Wed, 29 Aug 2018 17:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+GeoIP&lt;br&gt;
+NetworkManager (1.10.10 -&gt; 1.12.2)&lt;br&gt;
+ca-certificates-mozilla (2.24 -&gt; 2.26)&lt;br&gt;
+cryptsetup (2.0.1 -&gt; 2.0.4)&lt;br&gt;
+curl&lt;br&gt;
+device-mapper (1.02.146 -&gt; 1.02.149)&lt;br&gt;
+elfutils&lt;br&gt;
+file&lt;br&gt;
+firewalld&lt;br&gt;
+grep&lt;br&gt;
+installation-images-Kubic (14.379 -&gt; 14.380)&lt;br&gt;
+jemalloc&lt;br&gt;
+libX11 (1.6.5 -&gt; 1.6.6)&lt;br&gt;
+libcacard (2.5.3 -&gt; 2.6.0)&lt;br&gt;
+libgnome-keyring&lt;br&gt;
+linux-glibc-devel (4.17 -&gt; 4.18)&lt;br&gt;
+lsscsi (0.28 -&gt; 0.30)&lt;br&gt;
+lvm2 (2.02.177 -&gt; 2.02.180)&lt;br&gt;
+m4&lt;br&gt;
+mutter&lt;br&gt;
+nfsidmap&lt;br&gt;
+ovmf (2018+git1531464032.ae08ea246fe9 -&gt; 2018+git1534736099.43fe4c405292)&lt;br&gt;
+pango (1.42.3 -&gt; 1.42.4)&lt;br&gt;
+patterns-base&lt;br&gt;
+perl-Module-Signature (0.81 -&gt; 0.82)&lt;br&gt;
+permissions (20180802 -&gt; 20180827)&lt;br&gt;
+polkit&lt;br&gt;
+python-cryptography (2.3 -&gt; 2.3.1)&lt;br&gt;
+python-setuptools (40.0.0 -&gt; 40.1.0)&lt;br&gt;
+python-urllib3&lt;br&gt;
+qpdf (8.1.0 -&gt; 8.2.1)&lt;br&gt;
+rdma-core&lt;br&gt;
+spice&lt;br&gt;
+spice-gtk&lt;br&gt;
+sudo (1.8.23 -&gt; 1.8.24)&lt;br&gt;
+upower&lt;br&gt;
+util-linux (2.31.1 -&gt; 2.32.1)&lt;br&gt;
+util-linux-systemd (2.31.1 -&gt; 2.32.1)&lt;br&gt;
+vala (0.40.8 -&gt; 0.40.9)&lt;br&gt;
+yast2-dns-server (4.1.0 -&gt; 4.1.1)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180827 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00295.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00295.html</guid>
