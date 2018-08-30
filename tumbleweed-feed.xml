@@ -5,6 +5,19 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180829 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00358.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00358.html</guid>
+<pubDate>Thu, 30 Aug 2018 17:00:00 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+duplicity (0.7.18 -&gt; 0.7.18.1)&lt;br&gt;
+freeipmi&lt;br&gt;
+remmina (1.2.31.2 -&gt; 1.2.31.4)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180828 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00330.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00330.html</guid>
