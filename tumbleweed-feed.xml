@@ -5,6 +5,28 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180831 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00015.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00015.html</guid>
+<pubDate>Mon, 03 Sep 2018 20:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+dpdk&lt;br&gt;
+goffice (0.10.41 -&gt; 0.10.43)&lt;br&gt;
+perl-Cpanel-JSON-XS (4.04 -&gt; 4.06)&lt;br&gt;
+perl-Module-Signature (0.82 -&gt; 0.83)&lt;br&gt;
+perl-Net-Netmask (1.9103 -&gt; 1.9104)&lt;br&gt;
+python-ply&lt;br&gt;
+python-pycurl&lt;br&gt;
+python-python-dateutil (2.6.1 -&gt; 2.7.3)&lt;br&gt;
+python-urllib3&lt;br&gt;
+slrn&lt;br&gt;
+ucode-intel (20180807 -&gt; 20180807a)&lt;br&gt;
+yast2-journal (4.1.1 -&gt; 4.1.2)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180829 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-08/msg00358.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-08/msg00358.html</guid>
