@@ -5,6 +5,39 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180903 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00017.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00017.html</guid>
+<pubDate>Wed, 05 Sep 2018 13:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+akonadi-server&lt;br&gt;
+attr (2.4.47 -&gt; 2.4.48)&lt;br&gt;
+bash-completion (2.7 -&gt; 2.8)&lt;br&gt;
+bzip2&lt;br&gt;
+dbus-1 (1.12.6 -&gt; 1.12.10)&lt;br&gt;
+dbus-1-x11 (1.12.6 -&gt; 1.12.10)&lt;br&gt;
+grub2&lt;br&gt;
+hexchat (2.14.1 -&gt; 2.14.2)&lt;br&gt;
+kcmutils&lt;br&gt;
+kdevelop5&lt;br&gt;
+krita&lt;br&gt;
+libHX (3.22 -&gt; 3.23)&lt;br&gt;
+libqt5-qtbase&lt;br&gt;
+pam&lt;br&gt;
+postfix&lt;br&gt;
+python-kiwi (9.16.6 -&gt; 9.16.12)&lt;br&gt;
+rpm-config-SUSE&lt;br&gt;
+rtl8812au (5.2.20_k4.18.5_1 -&gt; 5.2.20.2_k4.18.5_1)&lt;br&gt;
+schily (2018.05.25 -&gt; 2018.08.24)&lt;br&gt;
+valgrind&lt;br&gt;
+xfce4-branding-openSUSE&lt;br&gt;
+xmlgraphics-commons (2.1 -&gt; 2.3)&lt;br&gt;
+xmlgraphics-fop&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180831 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00015.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00015.html</guid>
