@@ -5,6 +5,91 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180905 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00034.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00034.html</guid>
+<pubDate>Fri, 07 Sep 2018 15:00:03 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+PackageKit&lt;br&gt;
+akregator&lt;br&gt;
+autoyast2 (4.0.57 -&gt; 4.0.60)&lt;br&gt;
+bcm43xx-firmware&lt;br&gt;
+cmis-client&lt;br&gt;
+device-mapper&lt;br&gt;
+dnsmasq&lt;br&gt;
+ethtool (4.17 -&gt; 4.18)&lt;br&gt;
+git&lt;br&gt;
+gnome-control-center&lt;br&gt;
+gnome-documents (3.28.1 -&gt; 3.28.2)&lt;br&gt;
+gpg2 (2.2.9 -&gt; 2.2.10)&lt;br&gt;
+hplip (3.17.9 -&gt; 3.18.6)&lt;br&gt;
+hwdata (0.313 -&gt; 0.314)&lt;br&gt;
+intel-gpu-tools (1.22 -&gt; 1.23)&lt;br&gt;
+kdepim-runtime&lt;br&gt;
+kernel-firmware (20180730 -&gt; 20180825)&lt;br&gt;
+libcontainers-common&lt;br&gt;
+libgnome-games-support (1.2.3 -&gt; 1.4.2)&lt;br&gt;
+libkdcraw&lt;br&gt;
+libkgapi&lt;br&gt;
+libssh (0.7.5 -&gt; 0.8.2)&lt;br&gt;
+libstorage-ng (4.1.15 -&gt; 4.1.22)&lt;br&gt;
+libx86emu (2.0 -&gt; 2.1)&lt;br&gt;
+lvm2&lt;br&gt;
+mariadb (10.2.16 -&gt; 10.2.17)&lt;br&gt;
+obs-service-tar_scm (0.9.1.1530616709.1329314 -&gt; 0.9.1.1534504824.0732756)&lt;br&gt;
+okteta (0.25.2 -&gt; 0.25.3)&lt;br&gt;
+open-iscsi&lt;br&gt;
+openldap2&lt;br&gt;
+openslp&lt;br&gt;
+patterns-base&lt;br&gt;
+pcsc-lite&lt;br&gt;
+perl-CGI (4.38 -&gt; 4.40)&lt;br&gt;
+perl-Date-Manip (6.72 -&gt; 6.73)&lt;br&gt;
+php7 (7.2.8 -&gt; 7.2.9)&lt;br&gt;
+plasma-browser-integration (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+plymouth (0.9.3+git20171220.6e9e95d -&gt; 0.9.3+git20180827.0a66272)&lt;br&gt;
+python-lxml&lt;br&gt;
+python-setuptools (40.1.0 -&gt; 40.2.0)&lt;br&gt;
+python-six&lt;br&gt;
+rubygem-cfa_grub2 (0.6.5 -&gt; 1.0.1)&lt;br&gt;
+samba&lt;br&gt;
+sysdig (0.22.0_k4.18.5_1 -&gt; 0.23.1_k4.18.5_1)&lt;br&gt;
+thin-provisioning-tools&lt;br&gt;
+tracker (2.1.1 -&gt; 2.1.4)&lt;br&gt;
+tracker-miners (2.1.0 -&gt; 2.1.4)&lt;br&gt;
+virtualbox (5.2.16_k4.18.5_1 -&gt; 5.2.18_k4.18.5_1)&lt;br&gt;
+wireless-regdb (2018.05.09 -&gt; 2018.05.31)&lt;br&gt;
+wireshark (2.6.2 -&gt; 2.6.3)&lt;br&gt;
+xdg-desktop-portal-kde (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+xen (4.11.0_02 -&gt; 4.11.0_04)&lt;br&gt;
+xf86-video-ati (18.0.1 -&gt; 18.0.1.g50)&lt;br&gt;
+xtables-addons&lt;br&gt;
+yast2 (4.1.0 -&gt; 4.1.6)&lt;br&gt;
+yast2-add-on (4.1.1 -&gt; 4.1.5)&lt;br&gt;
+yast2-apparmor (4.0.5 -&gt; 4.1.0)&lt;br&gt;
+yast2-bootloader (4.1.6 -&gt; 4.1.8)&lt;br&gt;
+yast2-dhcp-server (4.0.2 -&gt; 4.1.2)&lt;br&gt;
+yast2-ftp-server (4.1.3 -&gt; 4.1.4)&lt;br&gt;
+yast2-installation (4.1.8 -&gt; 4.1.13)&lt;br&gt;
+yast2-instserver (4.0.4 -&gt; 4.1.0)&lt;br&gt;
+yast2-iscsi-client (4.1.0 -&gt; 4.1.1)&lt;br&gt;
+yast2-isns (4.0.1 -&gt; 4.1.2)&lt;br&gt;
+yast2-network (4.1.5 -&gt; 4.1.6)&lt;br&gt;
+yast2-nfs-client (4.0.7 -&gt; 4.1.0)&lt;br&gt;
+yast2-ntp-client (4.0.12 -&gt; 4.1.0)&lt;br&gt;
+yast2-packager (4.1.2 -&gt; 4.1.4)&lt;br&gt;
+yast2-samba-server (4.0.3 -&gt; 4.1.0)&lt;br&gt;
+yast2-security (4.0.0 -&gt; 4.1.0)&lt;br&gt;
+yast2-services-manager (4.0.4 -&gt; 4.1.5)&lt;br&gt;
+yast2-storage-ng (4.1.4 -&gt; 4.1.13)&lt;br&gt;
+yast2-sysconfig (4.0.1 -&gt; 4.1.0)&lt;br&gt;
+yast2-tftp-server (4.1.2 -&gt; 4.1.4)&lt;br&gt;
+yast2-update (4.1.0 -&gt; 4.1.1)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180903 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00017.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00017.html</guid>
