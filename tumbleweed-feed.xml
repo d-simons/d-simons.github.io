@@ -5,6 +5,45 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180910 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00049.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00049.html</guid>
+<pubDate>Tue, 11 Sep 2018 20:00:01 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+MozillaThunderbird (52.9.1 -&gt; 60.0)&lt;br&gt;
+autoyast2 (4.0.60 -&gt; 4.0.61)&lt;br&gt;
+babl (0.1.52 -&gt; 0.1.56)&lt;br&gt;
+claws-mail (3.16.0 -&gt; 3.17.1)&lt;br&gt;
+cups-filters (1.20.4 -&gt; 1.21.1)&lt;br&gt;
+curl (7.61.0 -&gt; 7.61.1)&lt;br&gt;
+epiphany (3.28.3.1 -&gt; 3.28.4)&lt;br&gt;
+gegl (0.4.4 -&gt; 0.4.8)&lt;br&gt;
+gimp (2.10.4 -&gt; 2.10.6)&lt;br&gt;
+kernel-source (4.18.5 -&gt; 4.18.6)&lt;br&gt;
+libstorage-ng (4.1.22 -&gt; 4.1.24)&lt;br&gt;
+mercurial (4.7 -&gt; 4.7.1)&lt;br&gt;
+miniupnpc&lt;br&gt;
+nano (2.9.8 -&gt; 3.0)&lt;br&gt;
+obs-service-download_files (0.6.1.git.1529965817.d9a3ff4 -&gt; 0.6.2)&lt;br&gt;
+osinfo-db (20180720 -&gt; 20180903)&lt;br&gt;
+perl-File-Path (2.150000 -&gt; 2.160000)&lt;br&gt;
+polkit-default-privs&lt;br&gt;
+poppler (0.66.0 -&gt; 0.68.0)&lt;br&gt;
+poppler-qt5 (0.66.0 -&gt; 0.68.0)&lt;br&gt;
+python-pycryptodome (3.6.3 -&gt; 3.6.6)&lt;br&gt;
+python-pyparsing&lt;br&gt;
+rubygem-autoprefixer-rails (9.1.3 -&gt; 9.1.4)&lt;br&gt;
+rubygem-rubyzip (1.2.1 -&gt; 1.2.2)&lt;br&gt;
+rubygem-yard (0.9.14 -&gt; 0.9.16)&lt;br&gt;
+webkit2gtk3 (2.20.5 -&gt; 2.22.0)&lt;br&gt;
+yast2-services-manager (4.1.5 -&gt; 4.1.7)&lt;br&gt;
+yast2-support (4.0.0 -&gt; 4.0.1)&lt;br&gt;
+zsh (5.5.1 -&gt; 5.6)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180905 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00034.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00034.html</guid>
