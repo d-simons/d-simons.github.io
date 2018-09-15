@@ -5,6 +5,125 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180914 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00057.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00057.html</guid>
+<pubDate>Sat, 15 Sep 2018 09:00:03 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+akonadi-contact (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+akonadi-mime (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+akonadi-notes (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+akonadi-search (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+akonadi-server (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ark (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+baloo5-widgets (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+bluedevil5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+breeze (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+breeze-gtk (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+breeze4-style (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+discover (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+dolphin (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+dragonplayer (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+drkonqi5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+firewalld&lt;br&gt;
+flatpak-builder (0.10.10 -&gt; 1.0.0)&lt;br&gt;
+gnome-photos (3.28.0 -&gt; 3.28.1)&lt;br&gt;
+grantleetheme (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+gsettings-desktop-schemas (3.28.0 -&gt; 3.28.1)&lt;br&gt;
+gwenview5 (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+iproute2 (4.17 -&gt; 4.18)&lt;br&gt;
+kaccounts-integration (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kaccounts-providers (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kactivitymanagerd (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kamera (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kate (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcalc (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcalcore (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcharselect (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcm_sddm (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kcolorchooser (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcontacts (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdav (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kde-cli-tools5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kde-gtk-config5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kde-user-manager (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kdenetwork4-filesharing (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdialog (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kgamma5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+khelpcenter5 (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+khotkeys5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kinfocenter5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kio-extras5 (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kio_audiocd (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kitinerary (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kldap (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmag (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmailtransport (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmbox (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmenuedit5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kmime (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmousetool (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kompare (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+konsole (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kontactinterface (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kopete (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kpimtextedit (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kpkpass (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kruler (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kscreen5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kscreenlocker (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+ksmtp (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ksshaskpass5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+ksysguard5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kwalletmanager5 (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kwayland-integration (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+kwin5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+libkcddb (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkcompactdisc (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkdcraw (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkdecoration2 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+libkdepim (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkexiv2 (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkgapi (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkipi (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkleo (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkomparediff2 (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libksane (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkscreen2 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+libksysguard5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+librsvg (2.42.6 -&gt; 2.44.2)&lt;br&gt;
+libzypp (17.6.2 -&gt; 17.7.0)&lt;br&gt;
+mailimporter (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+makedumpfile&lt;br&gt;
+milou5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+mobipocket (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+okular (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+openafs (1.8.1 -&gt; 1.8.2)&lt;br&gt;
+oxygen5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+patterns-kde&lt;br&gt;
+plasma-nm5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+plasma5-addons (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+plasma5-desktop (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+plasma5-integration (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+plasma5-openSUSE (15.0~git20180504T125857~b35c1c4 -&gt; &lt;br&gt;
+15.0~git20180827T140000~c0d552e)&lt;br&gt;
+plasma5-pa (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+plasma5-workspace (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+polkit-kde-agent-5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+powerdevil5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+python-boto3 (1.7.75 -&gt; 1.8.1)&lt;br&gt;
+python-botocore (1.10.75 -&gt; 1.11.1)&lt;br&gt;
+signon-plugin-oauth2&lt;br&gt;
+soundtouch&lt;br&gt;
+spectacle (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+sudo (1.8.24 -&gt; 1.8.25)&lt;br&gt;
+syndication (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+systemsettings5 (5.13.4 -&gt; 5.13.5)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180911 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00054.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00054.html</guid>
