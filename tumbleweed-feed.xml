@@ -5,6 +5,123 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180915 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00061.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00061.html</guid>
+<pubDate>Sun, 16 Sep 2018 21:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+akonadi-calendar (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+akonadi-calendar-tools (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+akonadi-import-wizard (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+akregator (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+analitza (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+blinken (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+bovo (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+calendarsupport (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+cervisia (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+epiphany (3.28.4 -&gt; 3.30.0)&lt;br&gt;
+eventviews (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ffmpegthumbs (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+incidenceeditor (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+jhead&lt;br&gt;
+juk (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kaddressbook (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kalarmcal (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kalgebra (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kalzium (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kanagram (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kapptemplate (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+katomic (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kblackbox (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kblocks (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kbounce (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kbreakout (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kbruch (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcachegrind (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcalutils (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kcron (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kde-print-manager (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdeedu-data (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdegraphics-thumbnailers (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdepim-addons (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdepim-apps-libs (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdepim-runtime (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdf (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kdiamond (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kgeography (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kget (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kgoldrunner (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+khangman (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kidentitymanagement (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kig (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kimagemapeditor (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kimap (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kiriki (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kiten (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kjumpingcube (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kleopatra (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+klettres (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+klines (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmahjongg (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmail (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmail-account-wizard (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmines (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmouth (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kmplot (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+knavalbattle (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+knetwalk (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+knotes (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kolf (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kollision (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kolourpaint (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+konquest (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kontact (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+korganizer (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kpat (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kqtquickcharts (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+krdc (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kreversi (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+krfb (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kshisen (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ksirk (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kspaceduel (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ksquares (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ksudoku (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ksystemlog (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kteatime (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ktimer (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ktnef (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ktouch (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+ktuberling (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kturtle (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kubrick (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+kwordquiz (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libgravatar (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkdegames (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkeduvocdocument (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libkmahjongg (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+libksieve (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+lokalize (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+lskat (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+mailcommon (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+mbox-importer (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+messagelib (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+parley (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+perl-Class-Date (1.1.15 -&gt; 1.1.17)&lt;br&gt;
+perl-GD (2.66 -&gt; 2.69)&lt;br&gt;
+pim-data-exporter (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+pim-sieve-editor (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+pimcommon (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+pitivi (0.99 -&gt; 0.999)&lt;br&gt;
+step (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+sweeper (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+umbrello (18.08.0 -&gt; 18.08.1)&lt;br&gt;
+xtables-addons (3.1_k4.18.7_1 -&gt; 3.2_k4.18.7_1)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180914 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00057.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00057.html</guid>
