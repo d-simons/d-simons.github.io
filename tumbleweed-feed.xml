@@ -5,6 +5,23 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180916 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00070.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00070.html</guid>
+<pubDate>Mon, 17 Sep 2018 16:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+ffmpeg-4&lt;br&gt;
+gdb (8.1 -&gt; 8.2)&lt;br&gt;
+grub2&lt;br&gt;
+mariadb&lt;br&gt;
+perl-DBD-mysql (4.046 -&gt; 4.047)&lt;br&gt;
+perl-Glib (1.326 -&gt; 1.327)&lt;br&gt;
+python-keyring&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180915 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00061.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00061.html</guid>
