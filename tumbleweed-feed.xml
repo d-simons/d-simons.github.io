@@ -5,6 +5,19 @@
 <link>https://www.simonizor.net/tumbleweed/</link>
 <description>Release information for openSUSE Tumbleweed</description>
 <item>
+<title>[opensuse-factory] New Tumbleweed snapshot 20180917 released!</title>
+<link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00074.html</link>
+<guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00074.html</guid>
+<pubDate>Tue, 18 Sep 2018 14:00:02 +0200</pubDate>
+<description>
+Packages changed:&lt;br&gt;
+dconf-editor (3.28.0 -&gt; 3.30.0)&lt;br&gt;
+e2fsprogs (1.44.2 -&gt; 1.44.4)&lt;br&gt;
+iagno (3.28.0 -&gt; 3.30.0)&lt;br&gt;
+&lt;br&gt;
+</description>
+</item>
+<item>
 <title>[opensuse-factory] New Tumbleweed snapshot 20180916 released!</title>
 <link>https://lists.opensuse.org/opensuse-factory/2018-09/msg00070.html</link>
 <guid>https://lists.opensuse.org/opensuse-factory/2018-09/msg00070.html</guid>
