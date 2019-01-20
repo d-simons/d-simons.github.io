@@ -9,4 +9,4 @@ A simple bash script that posts RSS feeds to Discord webhooks
 
 ![embed-preview](https://u.teknik.io/w5AtY.PNG)
 
-**[View Source](https://github.com/simoniz0r/yadshot)**
+**[View Source](https://github.com/simoniz0r/discord-rss-bot)**
