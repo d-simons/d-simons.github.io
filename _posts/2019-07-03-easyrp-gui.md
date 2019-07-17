@@ -5,8 +5,6 @@ date:   2019-07-03
 categories: index
 ---
 
-# easyrp-gui
-
 A GUI for controlling [EasyRP](https://github.com/Pizzabelly/EasyRP) for Discord RPC.
 
 # Usage

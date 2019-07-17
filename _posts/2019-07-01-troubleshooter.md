@@ -5,7 +5,6 @@ date:   2019-07-01
 categories: index
 ---
 
-# troubleshooter
 Collects useful information from the host system (hardware, logs, etc) for troubleshooting Linux issues
 
 ## Use

@@ -5,8 +5,6 @@ date:   2019-07-05
 categories: index
 ---
 
-# wmctrl-rpc
-
 A wrapper for [EasyRP](https://github.com/Pizzabelly/EasyRP) that gets window titles using `wmctrl` for Discord RPC.
 
 # Usage
